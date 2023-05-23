@@ -1,9 +1,10 @@
-import React from 'react'
+import styles from "../styles"
+import { logo } from "../assets"
+import { footerLinks, socialMedia } from "../constants"
 
 const Footer = () => {
   return (
-    <div>
-    </div>
+    <section></section>
   )
 }
 
