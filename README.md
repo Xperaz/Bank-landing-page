@@ -1,2 +1,2 @@
-# google-clone
-make simple google-search-engine using reactjs and twailwind css
+# Bank-Page
+make modern bank landing page using reactjs and twailwind css
